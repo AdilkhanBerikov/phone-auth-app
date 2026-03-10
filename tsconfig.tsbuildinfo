@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/app/AuthProvider.tsx","./src/app/router.tsx","./src/components/CodeForm.tsx","./src/components/PhoneForm.tsx","./src/components/ProtectedRoute.tsx","./src/firebase/firebase.ts","./src/pages/Dashboard.tsx","./src/pages/LoginPage.tsx","./src/services/authService.ts"],"errors":true,"version":"5.9.3"}
